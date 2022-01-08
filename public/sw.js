@@ -11,9 +11,6 @@ var url_Cache = [
   "/static/media",
   "/favicon.ico",
   "/images/icons/icon-192x192.png",
-  "/site/manifest.json",
-  "site/static/css/main.d95d4030.css",
-  "site/static/js/main.06889904.js",
 ];
 
 //install

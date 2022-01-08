@@ -15,6 +15,7 @@ var url_Cache = [
 this.addEventListener("install", (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) => {
+      console.log("Caching ", cache);
       return cache.addAll(url_Cache);
     })
   );

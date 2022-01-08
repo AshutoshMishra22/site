@@ -1,5 +1,5 @@
 import React from "react";
-import { Article, CTA, Navbar, Brand } from "./components";
+import { CTA, Navbar, Brand } from "./components";
 import {
   Header,
   WhatGPT3,

@@ -11,8 +11,6 @@ var url_Cache = [
   "/static/media",
   "/favicon.ico",
   "/images/icons/icon-192x192.png",
-  "/site/",
-  "/site/index.html",
 ];
 
 //install
